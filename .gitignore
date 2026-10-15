@@ -35,6 +35,7 @@
 *.xcodeproj
 *.xcworkspace
 *.sln
+*.slnx
 *.suo
 *.opensdf
 *.sdf
@@ -80,3 +81,7 @@ Config/steamvr_ue_editor_app.json
 Config/SteamVRBindings
 Platforms/HoloLens/Config/HoloLensEngine.ini
 .vsconfig
+
+# VS Code / generated workspaces
+.vscode/
+*.code-workspace
